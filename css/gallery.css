@@ -1,0 +1,30 @@
+/* Gallery Section */
+#gallery {
+    padding: 50px 0;
+}
+#gallery .container h1{
+    font-size: 4vh; 
+    text-align:center;
+}
+
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 5vh;
+}
+
+.images img {
+    width: calc(18% - 20px);
+    border-radius: 8px;
+}

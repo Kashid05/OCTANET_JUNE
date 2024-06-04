@@ -1,0 +1,16 @@
+
+
+/* Features Section */
+#about {
+    padding: 50px 0;
+    text-align: center;
+    font-size: 3vh;
+}
+#about .container img{
+    width: 30vh;
+    border-radius: 10px;
+}
+
+#about .feature-box {
+    margin: 20px 0;
+}
